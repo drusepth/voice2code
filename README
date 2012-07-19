@@ -1,0 +1,21 @@
+On the quest for Turing Completeness, here are the language constructs that
+voice2code currently handles:
+
+- Variables
+- For loops (nested and non!)
+- Printing output
+- Conditionals
+- Addition
+- Modulus
+
+Here are the language constructs that it needs to handle in order to be deemed
+awesome:
+
+- Pretty much everything
+
+The plan moving forward:
+
+- Support everything above ASAP, even if it's ugly code
+- Refactor ugly code above
+- ????
+- PROFIT!!!
